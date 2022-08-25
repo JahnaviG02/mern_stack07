@@ -1,0 +1,52 @@
+
+
+.nav ul{
+	list-style-type: none;
+	display: flex;
+	 margin-top: 20px;
+}
+.nav ul li a{
+      color: floralwhite;
+      text-decoration: none;
+}
+a.active{
+	background-color: green;
+	padding: 10px;
+	border-radius: 5px;
+}
+a:hover{
+	background-color:royalblue;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+body{
+	background: url('black.jpg');
+}
+.h{
+	margin-left: 250px;
+	height: 20px;
+	font-size: 20px;
+}
+.ab{
+	margin-left: 250px;
+	font-size: 20px;
+
+}
+.c{
+	margin-left: 250px;
+	font-size: 20px;
+
+}
+.r{
+	margin-left: 250px;
+	font-size: 20px;
+
+}
+.main1{
+      height: 600px;
+}
+
+.email{
+	width: 400px;
+}
